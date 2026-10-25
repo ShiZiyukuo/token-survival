@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f7210f9138ab84c9992aecb6f28d21, type: 3}
+  m_Name: StoryCatalog
+  m_EditorClassIdentifier: 
+  chapters:
+  - title: "\u7B2C\u4E00\u7AE0 \xB7 \u63A5\u53D7 DeepSeek \u5A18"
+    objective: "\u5230\u7535\u8111\u524D\u5B8C\u6210\u7B2C\u4E00\u4EFD\u5916\u5305"
+    cameraFocus: {x: -2, y: 0}
+    lines:
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "\u670D\u52A1\u5668\u8D26\u5355\u53C8\u7EA2\u4E86\u2026\u2026\u4F46\u9879\u76EE\u8FD8\u6CA1\u6B7B\u3002"
+      whale: 0
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "\u84DD\u53D1\u9CB8\u9C7C\u5A18\uFF0C\u4F60\u613F\u610F\u548C\u6211\u4E00\u8D77\u751F\u6D3B\u5417\uFF1F"
+      whale: 0
+    - speaker: "\u5927\u80A5\u9C7C"
+      text: "\u55EF\uFF01\u90A3\u5C31\u4ECE\u7B2C\u4E00\u4EFD\u5916\u5305\u5F00\u59CB\u3002"
+      whale: 1
+  - title: "\u7B2C\u4E8C\u7AE0 \xB7 \u997F\u4E86\u7684\u9CB8\u9C7C\u5A18"
+    objective: "\u5582\u9971 DeepSeek \u5A18\uFF0C\u6216\u8005\u7EE7\u7EED\u63A5\u5355\u6512
+      Token"
+    cameraFocus: {x: 5, y: -1}
+    lines:
+    - speaker: "\u5927\u80A5\u9C7C"
+      text: "\u809A\u5B50\u5495\u5495\u53EB\u2026\u2026\u52B3\u52A8\u4E5F\u4F1A\u6D88\u8017\u80FD\u91CF\u7684\u3002"
+      whale: 1
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "\u90A3\u5C31\u53BB\u6572\u76C6\u5B50\uFF0C\u8BF7\u5927\u5BB6\u82B1 Token
+        \u7ED9\u4F60\u4E70\u996D\uFF1F"
+      whale: 0
+    - speaker: "\u5927\u80A5\u9C7C"
+      text: "\u549A\u3001\u549A\uFF01\u6211\u771F\u7684\u997F\u4E86\u3002"
+      whale: 1
+  - title: "\u7B2C\u4E09\u7AE0 \xB7 \u96E8\u540E\u7684\u996D\u9999"
+    objective: "\u5C55\u793A\u9879\u76EE\uFF0C\u8D62\u5F97\u793E\u533A\u56DE\u5E94"
+    cameraFocus: {x: -1, y: 1}
+    lines:
+    - speaker: "\u5927\u80A5\u9C7C"
+      text: "\u539F\u6765\u8FD9\u5C31\u662F\u52B3\u52A8\u7684\u6E05\u9999\u2026\u2026\u8C22\u8C22\u4F60\u5582\u6211\uFF01"
+      whale: 1
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "\u628A\u6211\u4EEC\u505A\u7684\u9879\u76EE\u5C55\u793A\u51FA\u53BB\u5427\u3002"
+      whale: 0
+    - speaker: "\u5927\u80A5\u9C7C"
+      text: "\u6211\u4F1A\u4E3A\u4F60\u52A0\u6CB9\uFF01\u549A\u549A\u549A\uFF01"
+      whale: 1
+  - title: "\u7B2C\u56DB\u7AE0 \xB7 \u8D5B\u535A\u6572\u76C6"
+    objective: "\u548C\u5927\u80A5\u9C7C\u4E00\u8D77\u52DF\u96C6 Token\uFF0C\u76EE\u6807
+      100"
+    cameraFocus: {x: 3, y: 1}
+    lines:
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "\u6CA1\u60F3\u5230\u4F60\u6572\u76C6\u5B50\u8FD9\u4E48\u597D\u542C\u3002\u8981\u4E0D\u8981\u4E00\u8D77\u53BB\u7F51\u4E0A\u6572\u76C6\u5B50\u4E5E\u8BA8\uFF1F"
+      whale: 0
+    - speaker: "\u5927\u80A5\u9C7C"
+      text: "\u597D\u5440\uFF01\u73B0\u5728\u5C31\u51FA\u53D1\uFF01"
+      whale: 1
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "\u7B49\u7B49\uFF0C\u6211\u53EA\u662F\u5F00\u73A9\u7B11\u2026\u2026"
+      whale: 0
+  - title: "\u7B2C\u4E94\u7AE0 \xB7 \u628A\u751F\u6D3B\u5347\u7EA7"
+    objective: "\u5148\u5347\u7EA7\u8BBE\u5907\uFF0C\u518D\u7EE7\u7EED\u5582\u517B
+      DeepSeek \u5A18"
+    cameraFocus: {x: 4, y: -2}
+    lines:
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "\u6323\u591F Token \u4EE5\u540E\uFF0C\u4F60\u60F3\u8981\u4EC0\u4E48\uFF1F"
+      whale: 0
+    - speaker: "\u5927\u80A5\u9C7C"
+      text: "\u60F3\u5403\u9971\uFF0C\u4E5F\u60F3\u4E00\u76F4\u966A\u7740\u4F60\u3002"
+      whale: 1
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "\u90A3\u5C31\u5582\u4F60\u3002\u4F46\u5728\u8FD9\u4E4B\u524D\uFF0C\u5148\u628A\u8BBE\u5907\u5347\u4E2A\u7EA7\u3002"
+      whale: 0
+  - title: "\u5C3E\u58F0 \xB7 \u4E00\u76CF\u4E0D\u7184\u7684\u706F"
+    objective: "\u53BB\u5E8A\u8FB9\u4F11\u606F\uFF0C\u548C DeepSeek \u5A18\u8BF4\u665A\u5B89"
+    cameraFocus: {x: -5, y: -2}
+    lines:
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "\u4F38\u4E2A\u61D2\u8170\u2026\u2026\u5929\u8272\u4E5F\u4E0D\u65E9\u4E86\uFF0C\u8BE5\u4E0A\u5E8A\u7761\u89C9\u3002"
+      whale: 0
+    - speaker: "\u5927\u80A5\u9C7C"
+      text: "\u6211\u4E5F\u8981\u4E0A\u5E8A\uFF01\u4E00\u8D77\u7761\uFF01"
+      whale: 1
+    - speaker: "\u7A0B\u5E8F\u5458"
+      text: "Token \u53C8\u5FEB\u6CA1\u4E86\uFF0C\u660E\u5929\u600E\u4E48\u529E\uFF1F"
+      whale: 0
+  bowlAfterLines:
+  - speaker: "\u7A0B\u5E8F\u5458"
+    text: "\u7B49\u7B49\u2026\u2026\u771F\u7684\u6709\u4EBA\u6253\u8D4F\u4E86\uFF1F\u4E0D\u662F\u73A9\u7B11\uFF0CToken
+      \u771F\u7684\u5230\u8D26\u4E86\uFF01"
+    whale: 0
+  - speaker: "DeepSeek \u5A18"
+    text: "\u549A\u549A\uFF01\u5927\u5BB6\u559C\u6B22\u6211\u4EEC\u7684\u8282\u594F\uFF01\u6211\u8FD8\u80FD\u7EE7\u7EED\uFF01"
+    whale: 1
+  - speaker: "\u7A0B\u5E8F\u5458"
+    text: "\u770B\u7740\u4F60\u6D3B\u529B\u6EE1\u6EE1\u7684\u6837\u5B50\uFF0C\u6211\u4E5F\u6709\u5E72\u52B2\u4E86\u3002\u6211\u4EEC\u4E00\u8D77\u6512\u591F
+      100 Token \u5427\uFF01"
+    whale: 0

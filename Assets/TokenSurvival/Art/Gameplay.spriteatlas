@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gameplay
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 3
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      webStreaming: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 0
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f075f40f5143a9244905f8a5cc50399c, type: 3}
+    - {fileID: 2800000, guid: 2209bbbd9c74ea24b8f27d2304a8d937, type: 3}
+    - {fileID: 2800000, guid: ca67d57118c304749bcf19e3ba2e00ac, type: 3}
+    - {fileID: 2800000, guid: db1e6f34593c8e54f8335ed336869f91, type: 3}
+    - {fileID: 2800000, guid: d1fbdb18ec7f57343996c3d8c062fd36, type: 3}
+    - {fileID: 2800000, guid: 3def99378341e13429318c88c3a617c5, type: 3}
+    - {fileID: 2800000, guid: c2e1769fd8213054d99cb1b5bb621462, type: 3}
+    - {fileID: 2800000, guid: 723e96c4b141ac4409e45f27c8378453, type: 3}
+    - {fileID: 2800000, guid: 1c548a809cedeb44abc36a5154f716bf, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys: []
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: Gameplay
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
